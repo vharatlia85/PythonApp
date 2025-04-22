@@ -31,4 +31,4 @@ print(df)
 average_age = df['Age'].mean()
 print(f"\nThe average age is: {average_age:.2f}")
 
-print("Execution Completed");
+print("Execution Completed"
